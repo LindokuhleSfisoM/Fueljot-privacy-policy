@@ -55,7 +55,7 @@ personalised ads."
 
 Third parties may use cookies on your browser 
 to collect information in order to serve you
- with interest based ads.\n\n
+ with interest based ads.
 
  Privacy policy updates
 
